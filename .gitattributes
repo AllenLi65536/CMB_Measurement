@@ -1,3 +1,2 @@
 ingolstadt/ingolstadt.csv filter=lfs diff=lfs merge=lfs -text
 hofbrauhaus/hofbrauhaus.csv filter=lfs diff=lfs merge=lfs -text
-*.csv filter=lfs diff=lfs merge=lfs -text
