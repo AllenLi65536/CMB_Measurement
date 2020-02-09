@@ -7,7 +7,7 @@ Report
 The Assignment3.ipnyb Jupyter Notebook contains the code as well as the report, which primarily includes the analysis of generated plots.
 
 
-Files to generate plots (Not necessary needed)
+Files to generate plots (Not necessarily needed)
 ---------------------
 
 We use Git LFS to store the large captured files. To re-generate the plots after cloning the repository use:
